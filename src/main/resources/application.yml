@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: "jdbc:postgresql://177.101.149.61:9856/vrfinanceiro_teste"
+    username: vrsoftware
+    password: VR50f7-01U
